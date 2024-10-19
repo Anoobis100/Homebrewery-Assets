@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Sans Normalcy';
+    font-family: 'Sans-Normalcy';
     src: url('https://github.com/scpwiki/sans-normalcy/blob/main/Sans-Normalcy.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
